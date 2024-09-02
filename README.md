@@ -3,6 +3,6 @@ https://drum-machine.freecodecamp.rocks/.
 
 ## Preview
 
-[preview](./screenshot)
+[preview](./screenshot.png)
 
 Push the bottons and enjoy the sound.
